@@ -55,6 +55,8 @@ However, simply turning on the "lock" setting for your motor will do the same th
 Now your blade should be able to clip through tnt armor, blacklists, and the ground!
 (assuming you have a good blade, nghiehuy12 has great tuts on how to make your blades better and flatblades are the best overall due to their very high clipping while still having good damage and density.)
 
-have fun!
+i also recommend making the keybind for starting your motor the same one as unanchoring/deploying your shredder.
+
+thats all, have fun
 
 -bagel, creator of the michealwave
